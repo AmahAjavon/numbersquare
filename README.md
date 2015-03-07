@@ -1,1 +1,1 @@
-# prototype
+Simple numbers input string that displays the numbers and their exponents in seperate boxes, the exponents increase by 2 per number, and each box exponent increases by one giving the right output solution.
